@@ -87,7 +87,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>fully.qualified.MainClass</mainClass>
+                            <mainClass>com.mycompany.projetoelastic.PrimeUpLogstashConverterMain</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
