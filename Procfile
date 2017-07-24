@@ -1,1 +1,1 @@
-web: java -jar target/projetoelastic-1.0-SNAPSHOT.war
+web: java -jar target/projetoelastic.jar
